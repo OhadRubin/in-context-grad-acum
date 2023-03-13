@@ -1,0 +1,5 @@
+wandb:
+    project: in-context-grad-acum
+    entity: ohadrubin
+    notes:
+    log_every_steps: 100
